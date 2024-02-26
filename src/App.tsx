@@ -2,7 +2,7 @@ import Header from './view/header'
 
 function App() {
   return (
-    <div className="">
+    <div className="flex justify-center items-center">
       <Header />
     </div>
   )
